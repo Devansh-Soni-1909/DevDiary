@@ -49,10 +49,7 @@ npm start
 
 Your app will be running at [http://localhost:3000](http://localhost:3000).
 
-## 📸 Screenshots
 
-![DevDiary Screenshot 1](./public/screenshots/screenshot1.png)
-![DevDiary Screenshot 2](./public/screenshots/screenshot2.png)
 
 ## 🤝 Contributing
 
@@ -75,7 +72,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### 👨‍💻 About the Creator
 
-This project was created by [Your Name](https://github.com/your-username). DevDiary is part of my ongoing journey to build simple, useful applications.
+This project was created by [Devansh Soni](https://github.com/Devansh-Soni-1909). DevDiary is part of my ongoing journey to build simple, useful applications.
 
 ## 🖤 Support
 
